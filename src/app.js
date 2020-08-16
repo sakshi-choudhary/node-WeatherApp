@@ -21,7 +21,7 @@ app.use(express.static(publicDirectoryPath)) // this renders our html file on sc
 
 app.get('',(req,res)=>{
     res.render('index',{
-        title: 'Weather App',
+        title: 'Mausam',
         name:'Sakshi'
     })
 })
