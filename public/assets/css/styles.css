@@ -63,5 +63,5 @@ input{
     padding-right: 90px;
 }
 body{
-    background-color: rgb(209, 246, 250);
+    background: linear-gradient(rgb(255, 196, 0), yellow, orange, rgb(248, 134, 4))
 }
